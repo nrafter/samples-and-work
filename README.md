@@ -10,6 +10,7 @@ https://github.com/nrafter/professional-fake-news
 https://medium.com/@nicholas.rafter/unpacking-rig-ek-shellcode-using-esil-71aba07366b0
 http://hci.stanford.edu/publications/2015/apparition/apparition-CHI2015.pdf
 
+## Personal experiments and reverse engineering/malware analysis
 #### Captcha solver
 https://github.com/nrafter/ringzer0
 
